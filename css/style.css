@@ -112,9 +112,25 @@ a:hover{
   color: black;
   filter: opacity(80%);
 }
+td{
+  font-size: 15px;
+}
+@media(min-width:410px){
+  td{
+    font-size: 20px;  
+  }
+}
 @media(min-width:990px){
   .col-lg-6{
     width: 100%;
     max-width: 440px;
+  }
+}
+@media(min-width: 1024px){
+  #About .lead{
+    font-size: 30px;
+  }
+  td{
+    font-size: 25px;  
   }
 }
