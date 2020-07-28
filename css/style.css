@@ -1,6 +1,9 @@
 body {
   background-color: #D5D5D5;
 }
+#Header{
+  width: 100vw;
+}
 #Header a:hover {
   color: #FFF;
 }
