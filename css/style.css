@@ -1,5 +1,7 @@
 body {
   background-color: #D5D5D5;
+  padding:0;
+  margin:0;
 }
 #Header a:hover {
   color: #FFF;
@@ -13,7 +15,7 @@ body {
 
 }
 #About {
-  /*margin-top: -200px;*/
+  margin-top: -200px;
 }
 #About .fa {
   color:white;
