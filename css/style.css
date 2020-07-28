@@ -8,8 +8,8 @@ body {
   background: url('../assets/Astronaut-space.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
-  min-height: 500px;
   height: 100%;
+  max-height: 600px;
 }
 #About {
   margin-top: -200px;
