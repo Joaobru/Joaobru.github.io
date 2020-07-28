@@ -1,0 +1,106 @@
+body {
+  background-color: #D5D5D5;
+}
+#Header a:hover {
+  color: #FFF;
+}
+#bg-img {
+  background: url('../assets/Astronaut-space.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 500px;
+  height: 100%;
+}
+#About {
+  margin-top: -200px;
+}
+#About .fa {
+  color:white;
+}
+#About span {
+  padding: 10px 20px 10px 20px;
+}
+#About hr{
+  border-width: 2px;
+  margin-top:6px;
+}
+#Skills span{
+  padding: 10px 20px 10px 20px;
+}
+#Skills hr{
+  border-width: 2px;
+  margin-top:6px;
+}
+#Experience span{
+  padding: 10px 20px 10px 20px;
+}
+#Experience hr{
+  border-width: 2px;
+  margin-top:6px;
+}
+#Experience .row{
+  justify-content: space-between;
+}
+#Experience .test{
+  width: 200px;
+  height: 100px;
+}
+#carouselControls{
+  width: 100%;
+  height: 75%;
+}
+#carouselControls2{
+  width:100%;
+  height: 75%;
+}
+#carouselControls3{
+  width:100%;
+  height: 75%;
+}
+#carouselControls4{
+  width:100%;
+  height: 75%;
+
+}
+#Experience .carousel-inner{
+  border-top: 3px solid #2d3436;
+  height: 128%;
+}
+#Certificates span{
+  padding: 10px 20px 10px 20px;
+}
+#Certificates hr{
+  border-width: 2px;
+  margin-top:6px;
+}
+.card-footer{
+  display: flex;
+  height: 70px;
+}
+.card-footer p{
+  font-size:12px;
+}
+.col-lg-6{
+  width: 100%;
+  max-width: 100%;
+}
+#Experience p{
+  padding: 2%;
+  font-size:22px;
+  font-weight: bold;
+}
+a{
+  text-decoration: none;
+  color:black;
+}
+a:hover{
+  text-decoration: none;
+  color: black;
+  filter: opacity(80%);
+}
+@media(min-width:990px){
+  .col-lg-6{
+    width: 100%;
+    max-width: 440px;
+  }
+}
