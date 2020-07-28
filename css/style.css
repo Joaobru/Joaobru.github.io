@@ -27,6 +27,9 @@ body {
   border-width: 2px;
   margin-top:6px;
 }
+#About .text-muted{
+  margin: 0 auto;
+}
 #Skills span{
   padding: 10px 20px 10px 20px;
 }
@@ -91,6 +94,14 @@ body {
   padding: 2%;
   font-size:22px;
   font-weight: bold;
+}
+.card-title{
+  margin: 0 auto;
+}
+@media(min-width: 991px){
+  .card-title{
+    margin: 0;
+  }
 }
 a{
   text-decoration: none;
