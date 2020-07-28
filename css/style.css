@@ -1,22 +1,16 @@
 body {
   background-color: #D5D5D5;
 }
-.controller{
-  width:100vw;
-}
 #Header a:hover {
   color: #FFF;
 }
 #Header {
   width:100vw;
 }
-#bg-img {
-  background: url('../assets/Astronaut-space.jpg');
-  background-size: 100%;
-  background-repeat: no-repeat;
-  min-height: 500px;
-  height: 100%;
-  width: 100vw;
+.bg-img {
+  width: 100%;
+  height: 500px;
+
 }
 #About {
   margin-top: -200px;
