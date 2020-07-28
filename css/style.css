@@ -119,6 +119,9 @@ td{
   td{
     font-size: 20px;  
   }
+  #About .text-muted{
+    font-size:19px;
+  }
 }
 @media(min-width:990px){
   .col-lg-6{
@@ -131,6 +134,9 @@ td{
     font-size: 30px;
   }
   td{
-    font-size: 25px;  
+    font-size: 22px;  
+  }
+  #About .text-muted{
+    font-size:20px;
   }
 }
