@@ -1,11 +1,14 @@
 body {
   background-color: #D5D5D5;
 }
-#Header .navbar{
-  width: 100vw;
+.controller{
+  width:100vw;
 }
 #Header a:hover {
   color: #FFF;
+}
+#Header {
+  width:100vw;
 }
 #bg-img {
   background: url('../assets/Astronaut-space.jpg');
